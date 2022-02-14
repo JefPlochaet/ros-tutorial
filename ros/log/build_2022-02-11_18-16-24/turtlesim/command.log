@@ -1,0 +1,6 @@
+Invoking command in '/root/dev_ws/build/turtlesim': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /root/dev_ws/src/ros_tutorials/turtlesim -DCMAKE_INSTALL_PREFIX=/root/dev_ws/install/turtlesim
+Invoked command in '/root/dev_ws/build/turtlesim' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /root/dev_ws/src/ros_tutorials/turtlesim -DCMAKE_INSTALL_PREFIX=/root/dev_ws/install/turtlesim
+Invoking command in '/root/dev_ws/build/turtlesim': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /root/dev_ws/build/turtlesim -- -j16 -l16
+Invoked command in '/root/dev_ws/build/turtlesim' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /root/dev_ws/build/turtlesim -- -j16 -l16
+Invoking command in '/root/dev_ws/build/turtlesim': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /root/dev_ws/build/turtlesim
+Invoked command in '/root/dev_ws/build/turtlesim' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /root/dev_ws/build/turtlesim

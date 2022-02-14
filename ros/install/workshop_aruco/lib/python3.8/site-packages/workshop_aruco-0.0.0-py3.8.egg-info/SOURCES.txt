@@ -1,0 +1,17 @@
+package.xml
+setup.cfg
+setup.py
+../../build/workshop_aruco/workshop_aruco.egg-info/PKG-INFO
+../../build/workshop_aruco/workshop_aruco.egg-info/SOURCES.txt
+../../build/workshop_aruco/workshop_aruco.egg-info/dependency_links.txt
+../../build/workshop_aruco/workshop_aruco.egg-info/entry_points.txt
+../../build/workshop_aruco/workshop_aruco.egg-info/requires.txt
+../../build/workshop_aruco/workshop_aruco.egg-info/top_level.txt
+../../build/workshop_aruco/workshop_aruco.egg-info/zip-safe
+resource/workshop_aruco
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py
+workshop_aruco/__init__.py
+workshop_aruco/aruco_to_turtle.py
+workshop_aruco/image_publisher.py

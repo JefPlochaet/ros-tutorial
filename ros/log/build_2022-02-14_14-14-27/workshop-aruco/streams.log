@@ -1,0 +1,33 @@
+[0.396s] Invoking command in '/root/dev_ws/src/workshop-aruco': PYTHONPATH=/root/dev_ws/install/workshop-aruco/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/workshop-aruco build --build-base /root/dev_ws/build/workshop-aruco/build install --prefix /root/dev_ws/install/workshop-aruco --record /root/dev_ws/build/workshop-aruco/install.log --single-version-externally-managed
+[0.525s] running egg_info
+[0.525s] creating ../../build/workshop-aruco/workshop_aruco.egg-info
+[0.525s] writing ../../build/workshop-aruco/workshop_aruco.egg-info/PKG-INFO
+[0.526s] writing dependency_links to ../../build/workshop-aruco/workshop_aruco.egg-info/dependency_links.txt
+[0.526s] writing entry points to ../../build/workshop-aruco/workshop_aruco.egg-info/entry_points.txt
+[0.526s] writing requirements to ../../build/workshop-aruco/workshop_aruco.egg-info/requires.txt
+[0.526s] writing top-level names to ../../build/workshop-aruco/workshop_aruco.egg-info/top_level.txt
+[0.527s] writing manifest file '../../build/workshop-aruco/workshop_aruco.egg-info/SOURCES.txt'
+[0.554s] reading manifest file '../../build/workshop-aruco/workshop_aruco.egg-info/SOURCES.txt'
+[0.554s] writing manifest file '../../build/workshop-aruco/workshop_aruco.egg-info/SOURCES.txt'
+[0.554s] running build
+[0.554s] running build_py
+[0.554s] creating /root/dev_ws/build/workshop-aruco/build
+[0.554s] creating /root/dev_ws/build/workshop-aruco/build/lib
+[0.554s] creating /root/dev_ws/build/workshop-aruco/build/lib/workshop-aruco
+[0.554s] copying workshop-aruco/__init__.py -> /root/dev_ws/build/workshop-aruco/build/lib/workshop-aruco
+[0.554s] running install
+[0.555s] running install_lib
+[0.556s] creating /root/dev_ws/install/workshop-aruco/lib/python3.8/site-packages/workshop-aruco
+[0.556s] copying /root/dev_ws/build/workshop-aruco/build/lib/workshop-aruco/__init__.py -> /root/dev_ws/install/workshop-aruco/lib/python3.8/site-packages/workshop-aruco
+[0.556s] byte-compiling /root/dev_ws/install/workshop-aruco/lib/python3.8/site-packages/workshop-aruco/__init__.py to __init__.cpython-38.pyc
+[0.556s] running install_data
+[0.557s] creating /root/dev_ws/install/workshop-aruco/share/ament_index
+[0.557s] creating /root/dev_ws/install/workshop-aruco/share/ament_index/resource_index
+[0.557s] creating /root/dev_ws/install/workshop-aruco/share/ament_index/resource_index/packages
+[0.557s] copying resource/workshop-aruco -> /root/dev_ws/install/workshop-aruco/share/ament_index/resource_index/packages
+[0.557s] copying package.xml -> /root/dev_ws/install/workshop-aruco/share/workshop-aruco
+[0.557s] running install_egg_info
+[0.558s] Copying ../../build/workshop-aruco/workshop_aruco.egg-info to /root/dev_ws/install/workshop-aruco/lib/python3.8/site-packages/workshop_aruco-0.0.0-py3.8.egg-info
+[0.558s] running install_scripts
+[0.570s] writing list of installed files to '/root/dev_ws/build/workshop-aruco/install.log'
+[0.583s] Invoked command in '/root/dev_ws/src/workshop-aruco' returned '0': PYTHONPATH=/root/dev_ws/install/workshop-aruco/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/workshop-aruco build --build-base /root/dev_ws/build/workshop-aruco/build install --prefix /root/dev_ws/install/workshop-aruco --record /root/dev_ws/build/workshop-aruco/install.log --single-version-externally-managed

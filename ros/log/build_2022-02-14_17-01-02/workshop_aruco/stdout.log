@@ -1,0 +1,23 @@
+running egg_info
+writing ../../build/workshop_aruco/workshop_aruco.egg-info/PKG-INFO
+writing dependency_links to ../../build/workshop_aruco/workshop_aruco.egg-info/dependency_links.txt
+writing entry points to ../../build/workshop_aruco/workshop_aruco.egg-info/entry_points.txt
+writing requirements to ../../build/workshop_aruco/workshop_aruco.egg-info/requires.txt
+writing top-level names to ../../build/workshop_aruco/workshop_aruco.egg-info/top_level.txt
+reading manifest file '../../build/workshop_aruco/workshop_aruco.egg-info/SOURCES.txt'
+writing manifest file '../../build/workshop_aruco/workshop_aruco.egg-info/SOURCES.txt'
+running build
+running build_py
+copying workshop_aruco/aruco_to_turtle.py -> /root/dev_ws/build/workshop_aruco/build/lib/workshop_aruco
+running install
+running install_lib
+copying /root/dev_ws/build/workshop_aruco/build/lib/workshop_aruco/aruco_to_turtle.py -> /root/dev_ws/install/workshop_aruco/lib/python3.8/site-packages/workshop_aruco
+byte-compiling /root/dev_ws/install/workshop_aruco/lib/python3.8/site-packages/workshop_aruco/aruco_to_turtle.py to aruco_to_turtle.cpython-38.pyc
+running install_data
+running install_egg_info
+removing '/root/dev_ws/install/workshop_aruco/lib/python3.8/site-packages/workshop_aruco-0.0.0-py3.8.egg-info' (and everything under it)
+Copying ../../build/workshop_aruco/workshop_aruco.egg-info to /root/dev_ws/install/workshop_aruco/lib/python3.8/site-packages/workshop_aruco-0.0.0-py3.8.egg-info
+running install_scripts
+Installing aruco_to_turtle script to /root/dev_ws/install/workshop_aruco/lib/workshop_aruco
+Installing image_publisher script to /root/dev_ws/install/workshop_aruco/lib/workshop_aruco
+writing list of installed files to '/root/dev_ws/build/workshop_aruco/install.log'

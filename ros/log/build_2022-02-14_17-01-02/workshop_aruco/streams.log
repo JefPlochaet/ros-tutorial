@@ -1,0 +1,25 @@
+[0.387s] Invoking command in '/root/dev_ws/src/workshop_aruco': PYTHONPATH=/root/dev_ws/install/workshop_aruco/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/workshop_aruco build --build-base /root/dev_ws/build/workshop_aruco/build install --prefix /root/dev_ws/install/workshop_aruco --record /root/dev_ws/build/workshop_aruco/install.log --single-version-externally-managed
+[0.514s] running egg_info
+[0.515s] writing ../../build/workshop_aruco/workshop_aruco.egg-info/PKG-INFO
+[0.515s] writing dependency_links to ../../build/workshop_aruco/workshop_aruco.egg-info/dependency_links.txt
+[0.515s] writing entry points to ../../build/workshop_aruco/workshop_aruco.egg-info/entry_points.txt
+[0.515s] writing requirements to ../../build/workshop_aruco/workshop_aruco.egg-info/requires.txt
+[0.515s] writing top-level names to ../../build/workshop_aruco/workshop_aruco.egg-info/top_level.txt
+[0.541s] reading manifest file '../../build/workshop_aruco/workshop_aruco.egg-info/SOURCES.txt'
+[0.542s] writing manifest file '../../build/workshop_aruco/workshop_aruco.egg-info/SOURCES.txt'
+[0.542s] running build
+[0.542s] running build_py
+[0.542s] copying workshop_aruco/aruco_to_turtle.py -> /root/dev_ws/build/workshop_aruco/build/lib/workshop_aruco
+[0.542s] running install
+[0.543s] running install_lib
+[0.543s] copying /root/dev_ws/build/workshop_aruco/build/lib/workshop_aruco/aruco_to_turtle.py -> /root/dev_ws/install/workshop_aruco/lib/python3.8/site-packages/workshop_aruco
+[0.544s] byte-compiling /root/dev_ws/install/workshop_aruco/lib/python3.8/site-packages/workshop_aruco/aruco_to_turtle.py to aruco_to_turtle.cpython-38.pyc
+[0.545s] running install_data
+[0.545s] running install_egg_info
+[0.546s] removing '/root/dev_ws/install/workshop_aruco/lib/python3.8/site-packages/workshop_aruco-0.0.0-py3.8.egg-info' (and everything under it)
+[0.546s] Copying ../../build/workshop_aruco/workshop_aruco.egg-info to /root/dev_ws/install/workshop_aruco/lib/python3.8/site-packages/workshop_aruco-0.0.0-py3.8.egg-info
+[0.546s] running install_scripts
+[0.558s] Installing aruco_to_turtle script to /root/dev_ws/install/workshop_aruco/lib/workshop_aruco
+[0.558s] Installing image_publisher script to /root/dev_ws/install/workshop_aruco/lib/workshop_aruco
+[0.558s] writing list of installed files to '/root/dev_ws/build/workshop_aruco/install.log'
+[0.571s] Invoked command in '/root/dev_ws/src/workshop_aruco' returned '0': PYTHONPATH=/root/dev_ws/install/workshop_aruco/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/workshop_aruco build --build-base /root/dev_ws/build/workshop_aruco/build install --prefix /root/dev_ws/install/workshop_aruco --record /root/dev_ws/build/workshop_aruco/install.log --single-version-externally-managed

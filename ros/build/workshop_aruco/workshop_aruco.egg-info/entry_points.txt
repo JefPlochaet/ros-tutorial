@@ -1,0 +1,4 @@
+[console_scripts]
+aruco_to_turtle = workshop_aruco.aruco_to_turtle:main
+image_publisher = workshop_aruco.image_publisher:main
+

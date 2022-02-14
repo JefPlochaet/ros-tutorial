@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en" >
+
+<head>
+  <meta charset="UTF-8">
+  <title>Turtle control</title>
+  
+  
+  
+  
+  
+</head>
+
+<body>
+
+  <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Image Change Demo</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<script type="text/javascript">
+function changeIt(imageName)
+{
+var obj = document.getElementById("image");
+obj.src = imageName;
+}
+function mouseUp()
+{
+var obj = document.getElementById("image");
+obj.src = "https://www.cherrylondon.com/wp-content/uploads/2017/10/placeholder-400x400.jpg";
+}
+</script>
+</head>
+
+<body>
+<div style="text-align:center;width:480px;">
+  <br><br>
+  
+  <h1>Aruco controller</h1>
+  
+  <br><br>
+  
+  <img id="image" src="https://www.cherrylondon.com/wp-content/uploads/2017/10/placeholder-400x400.jpg" border="0" width = 400 height = 400 />
+  
+  <br><br>
+  
+  <button onmousedown="changeIt('https://raw.githubusercontent.com/IngeCoudron/ros_workshop/master/_data/marker_up.png')" onmouseup="mouseUp()">UP</button><br><br>
+  <button onmousedown="changeIt('https://raw.githubusercontent.com/IngeCoudron/ros_workshop/master/_data/marker_left.png')" onmouseup="mouseUp()">LEFT</button>
+  <button onmousedown="changeIt('https://raw.githubusercontent.com/IngeCoudron/ros_workshop/master/_data/marker_right.png')" onmouseup="mouseUp()">RIGHT</button><br><br>
+  <button onmousedown="changeIt('https://raw.githubusercontent.com/IngeCoudron/ros_workshop/master/_data/marker_down.png')" onmouseup="mouseUp()">DOWN</button>
+</div>
+
+
+
+</html>
+  
+  
+
+</body>
+
+</html>

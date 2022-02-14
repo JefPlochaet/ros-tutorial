@@ -1,0 +1,31 @@
+running egg_info
+creating ../../build/workshop-aruco/workshop_aruco.egg-info
+writing ../../build/workshop-aruco/workshop_aruco.egg-info/PKG-INFO
+writing dependency_links to ../../build/workshop-aruco/workshop_aruco.egg-info/dependency_links.txt
+writing entry points to ../../build/workshop-aruco/workshop_aruco.egg-info/entry_points.txt
+writing requirements to ../../build/workshop-aruco/workshop_aruco.egg-info/requires.txt
+writing top-level names to ../../build/workshop-aruco/workshop_aruco.egg-info/top_level.txt
+writing manifest file '../../build/workshop-aruco/workshop_aruco.egg-info/SOURCES.txt'
+reading manifest file '../../build/workshop-aruco/workshop_aruco.egg-info/SOURCES.txt'
+writing manifest file '../../build/workshop-aruco/workshop_aruco.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /root/dev_ws/build/workshop-aruco/build
+creating /root/dev_ws/build/workshop-aruco/build/lib
+creating /root/dev_ws/build/workshop-aruco/build/lib/workshop-aruco
+copying workshop-aruco/__init__.py -> /root/dev_ws/build/workshop-aruco/build/lib/workshop-aruco
+running install
+running install_lib
+creating /root/dev_ws/install/workshop-aruco/lib/python3.8/site-packages/workshop-aruco
+copying /root/dev_ws/build/workshop-aruco/build/lib/workshop-aruco/__init__.py -> /root/dev_ws/install/workshop-aruco/lib/python3.8/site-packages/workshop-aruco
+byte-compiling /root/dev_ws/install/workshop-aruco/lib/python3.8/site-packages/workshop-aruco/__init__.py to __init__.cpython-38.pyc
+running install_data
+creating /root/dev_ws/install/workshop-aruco/share/ament_index
+creating /root/dev_ws/install/workshop-aruco/share/ament_index/resource_index
+creating /root/dev_ws/install/workshop-aruco/share/ament_index/resource_index/packages
+copying resource/workshop-aruco -> /root/dev_ws/install/workshop-aruco/share/ament_index/resource_index/packages
+copying package.xml -> /root/dev_ws/install/workshop-aruco/share/workshop-aruco
+running install_egg_info
+Copying ../../build/workshop-aruco/workshop_aruco.egg-info to /root/dev_ws/install/workshop-aruco/lib/python3.8/site-packages/workshop_aruco-0.0.0-py3.8.egg-info
+running install_scripts
+writing list of installed files to '/root/dev_ws/build/workshop-aruco/install.log'
