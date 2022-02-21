@@ -1,1 +1,3 @@
 ros_entrypoint.sh
+df
+ros/log/*
